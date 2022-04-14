@@ -1,1 +1,1 @@
-Performing CRUD operation on Postgres DB using Node Js(Express Js) App's APIs.
+Performing CRUD operation on Postgres DB using Sequelize in Node Js(Express Js) App's APIs.
